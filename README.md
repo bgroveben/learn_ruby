@@ -4,4 +4,4 @@ I found this through The Odin Project http://www.theodinproject.com/
 
 and TestFirst.org http://testfirst.org/learn_ruby
 
-02_calculator Bonus
+02_simon_says
